@@ -1,5 +1,27 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Getting Started
+
+To get started with this project, follow these steps:
+
+1. Clone the repository:
+```bash
+git clone https://github.com/Azmera21/ecommerce.git
+cd ecommerce
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm start
+```
+
+The app will open at [http://localhost:3000](http://localhost:3000) in your browser.
+
 ## Available Scripts
 
 In the project directory, you can run:
